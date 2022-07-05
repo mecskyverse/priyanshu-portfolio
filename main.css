@@ -6,15 +6,11 @@
 
 .container{
     display: flex;
+    background-color: whitesmoke;
 }
 
 .sidebar{
-    background-color: red;
+    background-color: gray;
     width: 7vw;
     height: 100vh;
-}
-
-.main{
-    background-color: yellow;
-    width: 93vw;
 }
